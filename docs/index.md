@@ -19,4 +19,4 @@
 
 When you open Steam for the first time it will ask you to login or create a new account. If you alread have an account you can use it, otherwise click *Create Account*.
 
-<img src="../assets/images/SteamCreateAccount.png" alt="create account" width="100"/>
+<img src="../assets/images/SteamCreateAccount.png" alt="create account" width="150"/>
