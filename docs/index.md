@@ -1,4 +1,12 @@
-## Install Steam
+## Requirements
+
+The JackBox games support remote play with your friends when using Steam. You won't need to buy any games in Steam, just install it and accept the game invite.
+
+Steam can be installed on both Mac and Windows machines.
+
+In addition to the Mac or Windows machine you will need one phone/tablet for each person that wants to play at your house. Nothing needs to be installed on the phone/tablet. When the game starts you will need to open the [jackbox.tv](https://jackbox.tv/) website on it and enter a code displayed on the Mac/Windows machine.
+
+## Install Steam on Mac or Windows
 
 1. Go to <a href="http://steampowered.com" target="_blank">steampowered.com</a> in your browser.
 2. Click Install Steam.
@@ -20,3 +28,7 @@
 When you open Steam for the first time it will ask you to login or create a new account. If you alread have an account you can use it, otherwise click *Create Account*.
 
 <img src="../assets/images/SteamCreateAccount.png" alt="create account" width="200"/>
+
+## Accept Friend Invite
+
+Check your e-mail for the friend invite I sent you. Click the link to accept the invite. You will need your steam username and password to accept the invite.

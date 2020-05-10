@@ -3,3 +3,8 @@ theme:
   name: material
 site_url: https://craig-sd.github.io/SteamInstructions/
 repo_url: https://github.com/craig-sd/SteamInstructions
+
+nav:
+    - Install: index.md
+    - Prepare: setup.md
+    - Playing: playing.md
