@@ -27,7 +27,7 @@ This preparation is only needed the first time you join a game. Once your comput
 
 Open Steam the Steam program. The first time it opens you will be prompted to login or create a new account. If you already have an account you can use it, otherwise click *Create Account*.
 
-<img src="/assets/images/SteamCreateAccount.png" alt="create account" width="200"/>
+<img src="https://craig-sd.github.io/JackboxGames/assets/images/SteamCreateAccount.png" alt="create account" width="200"/>
 
 ## Accept Friend Invite
 
