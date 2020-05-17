@@ -1,10 +1,10 @@
 # Jackbox Games
 
-[Jackbox Games](https://www.jackboxgames.com/) is a gaming company that makes multiplayer games that are fun in a party setting. I recently became aware of an option that makes it possible to play the same games with participants in their own house. This is great news given these strange times that we are in. I'm hoping you are willing to go through a few steps to setup the game at your house so you can join us in a game sometime.
+[Jackbox Games](https://www.jackboxgames.com/) is a gaming company that makes multiplayer games that are fun in a party setting. I recently became aware of an option that makes it possible to play the same games with participants in their own separate houses. This is great news given these strange times that we are in. I'm hoping you are willing to go through a few steps to set up the game at your house so you can join us in a game sometime.
 
-Jackbox Games are available on many platforms, however the remote play feature that allows us to play from different houses is only available on the Steam version. Steam is free and runs on Windows or Mac machines so you will need one of those to participate. Once you join the game with Steam you will also need one handheld device (phone or tablet) per participant at your house. The computer running steam will be used for the game introduction, results, etc and your handheld device will be used for submitting your answers and drawing pictures.
+Jackbox Games are available on many platforms; however, the remote play feature that allows us to play from different houses is only available on the Steam version. Steam is free and runs on Windows or Mac machines, so you will need one of those to participate. Once you join the game with Steam you will also need one handheld device (phone or tablet) per participant at your house. The computer running steam will be used for the game introduction, results, etc and your handheld device will be used for submitting your answers and interacting with the game.
 
-To hear your friends you need to used a headset or headphones attached to the computer running stream. If you don't have headphones or a headset you need to mute your mic on you computer otherwise you will cause a feedback loop and it will be really annoying for everyone.
+To hear your friends, you need to used a headset or headphones attached to the computer running Steam. If you don't have headphones or a headset, you need to mute your mic on your computer, otherwise you will cause a very loud feedback loop.
 
 More information on setting up to play can be found on the [Prepare](prepare.md) page. Ideally you would prepare to play in advance so I can help you, as needed.
 

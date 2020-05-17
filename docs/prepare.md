@@ -1,4 +1,4 @@
-This preparation is only needed the first time you join a game. Once your computer is setup and you have added us as a friend on Steam you can go directly to the [Play](page).
+This preparation is only needed the first time you join a game. Once your computer is set up and you have added us as a friend on Steam you can go directly to the [Play](page).
 
 ## Requirements
 
@@ -9,7 +9,6 @@ This preparation is only needed the first time you join a game. Once your comput
 
 1. On your Mac or Windows machine go to <a href="http://steampowered.com" target="_blank">steampowered.com</a> in your browser.
 2. Click Install Steam.
-3. Headset or headphones to connect to your Mac or Windows machine during the game. Wireless is ideal.
 
     ![install steam](https://www.imore.com/sites/imore.com/files/styles/xlarge/public/field/image/2017/02/install-steam-mac-screens-01.jpeg?itok=SemxWYi8)
 
@@ -25,9 +24,9 @@ This preparation is only needed the first time you join a game. Once your comput
 
 ## Create Account
 
-Open Steam the Steam program. The first time it opens you will be prompted to login or create a new account. If you already have an account you can use it, otherwise click *Create Account*.
+Open the Steam application. The first time it opens, you will be prompted to login or create a new account. If you already have an account, you can use it, but otherwise you should click *Create Account*.
 
-<img src="https://craig-sd.github.io/JackboxGames/assets/images/SteamCreateAccount.png" alt="create account" width="200"/>
+<img src="https://craig-sd.github.io/JackboxGames/assets/images/SteamCreateAccount.png" alt="create account" width="300"/>
 
 ## Accept Friend Invite
 

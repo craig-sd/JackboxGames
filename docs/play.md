@@ -14,7 +14,7 @@ At the scheduled time to play:
 6. On your handheld device (phone or tablet) open a web browser and connect to jackbox.tv.
 7. When a four letter room code is displayed on the Mac/Windows machine enter the code into the jackbox.tv webpage.
 8. Follow the directions on the Mac/Windows machine and on your phone. You need to monitor both.
-9.  Have fun.
+9.  Have fun!
 
 
 
