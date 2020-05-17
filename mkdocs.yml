@@ -1,7 +1,7 @@
 site_name: Jackbox Games
 theme:
   name: material
-site_url: https://craig-sd.github.io/JackboxGames/docs/
+site_url: https://craig-sd.github.io/JackboxGames/site/
 repo_url: https://github.com/craig-sd/JackboxGames/
 
 nav:
