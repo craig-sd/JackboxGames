@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
-     <loc>https://craig-sd.github.io/SteamInstructions/</loc>
-     <lastmod>2020-05-10</lastmod>
+     <loc>https://craig-sd.github.io/JackboxGames/prepare/</loc>
+     <lastmod>2020-05-16</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://craig-sd.github.io/SteamInstructions/setup/</loc>
-     <lastmod>2020-05-10</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://craig-sd.github.io/SteamInstructions/playing/</loc>
-     <lastmod>2020-05-10</lastmod>
+     <loc>https://craig-sd.github.io/JackboxGames/play/</loc>
+     <lastmod>2020-05-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>

@@ -1,10 +1,9 @@
-site_name: Jackbox Remote Play Instructions
+site_name: Jackbox Games
 theme:
   name: material
-site_url: https://craig-sd.github.io/SteamInstructions/
-repo_url: https://github.com/craig-sd/SteamInstructions
+site_url: https://craig-sd.github.io/JackboxGames/
+repo_url: https://github.com/craig-sd/JackboxGames/
 
 nav:
-    - Install: index.md
-    - Prepare: setup.md
-    - Playing: playing.md
+    - Prepare: prepare.md
+    - Play: play.md
