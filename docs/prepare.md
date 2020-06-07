@@ -30,4 +30,4 @@ Open the Steam application. The first time it opens, you will be prompted to log
 
 ## Accept Friend Invite
 
-When you get to this step test or e-mail me for a friend code link. You will need your steam username and password to accept the invite.
+When you get to this step text or e-mail me for a friend code link. You will need your steam username and password to accept the invite.
