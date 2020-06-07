@@ -30,4 +30,4 @@ Open the Steam application. The first time it opens, you will be prompted to log
 
 ## Accept Friend Invite
 
-Check your e-mail for the friend invite I sent you. Click the link to accept the invite from AintNoNeedForYa. You will need your steam username and password to accept the invite.
+When you get to this step test or e-mail me for a friend code link. You will need your steam username and password to accept the invite.
